@@ -1,0 +1,18 @@
+<?php
+return[
+    'table_module'=>[
+        'menu',
+        'category',
+        'product',
+        'slider',
+        'setting',
+        'user',
+        'role',
+    ],
+    'module_children'=>[
+        'list',
+        'add',
+        'edit',
+        'delete'
+    ]
+];
